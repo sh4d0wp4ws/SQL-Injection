@@ -22,3 +22,4 @@ if(isset($_GET["id"])){
         mysqli_close($link);
     }
 ?>
+// Test
